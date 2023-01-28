@@ -7,7 +7,8 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* 
+This adds spacing, font-style, and colors to the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,14 +16,19 @@ body {
     color: #ffffff;
 }
 
+/* This aligns the title with the nav items and sets the title's font-size */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* This makes a separate font-color for the seo class */
+
 .header h1 .seo {
     color: #d9dcd6;
 }
+/* 
+This organizes the nav items to align with the title on the right of the page and sets their font-style and size */
 
 .header nav {
     padding-top: 15px;
@@ -50,6 +56,7 @@ p {
     font-size: 16px;
 }
 
+/* This sets a large background image for the website */
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +82,7 @@ p {
     margin-left: 20px;
 }
 
+/* This organizes the spacing of the benefits class, sets its font and pushes it to the right of the page */
 .benefits {
     margin-right: 20px;
     padding: 20px;
