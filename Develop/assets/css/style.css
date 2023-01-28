@@ -7,6 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
+
 /* 
 This adds spacing, font-style, and colors to the header */
 .header {
@@ -94,53 +95,22 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.aside-section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+.aside-section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+.aside-section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
 .article {
     margin-bottom: 20px;
@@ -150,6 +120,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
 
 .article img {
     max-height: 200px;
